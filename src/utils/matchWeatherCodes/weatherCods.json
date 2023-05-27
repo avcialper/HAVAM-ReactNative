@@ -1,0 +1,284 @@
+[
+    {
+        "code" : 1000,
+        "dayText" : "Güneşli",
+        "nightText" : "Açık",
+        "animation" : "clearSky"
+    },
+    {
+        "code" : 1003,
+        "dayText" : "Parçalı Bulutlu",
+        "nightText" : "Parçalı Bulutlu",
+        "animation" : "partlyCloudy"
+    },
+    {
+        "code" : 1006,
+        "dayText" : "Bulutlu",
+        "nightText" : "Bulutlu",
+        "animation" : "cloudy"
+    },
+    {
+        "code" : 1009,
+        "dayText" : "Bulutlu",
+        "nightText" : "Bulutlu",
+        "animation" : "cloudy"
+    },
+    {
+        "code" : 1030,
+        "dayText" : "Sisli",
+        "nightText" : "Sisli",
+        "animation" : "mist"
+    },
+    {
+        "code" : 1063,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1066,
+        "dayText" : "Karla Karışık Yağmur",
+        "nightText" : "Karla Karışık Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1072,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1087,
+        "dayText" : "Gök Gürültülü Yağmmur",
+        "nightText" : "Gök Gürültülü Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1114,
+        "dayText" : "Tipi",
+        "nightText" : "Tipi",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1117,
+        "dayText" : "Kar Fırtınası",
+        "nightText" : "Kar Fırtınası",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1135,
+        "dayText" : "Puslu",
+        "nightText" : "Puslu",
+        "animation" : "mist"
+    },
+    {
+        "code" : 1147,
+        "dayText" : "Dondurucu Sisli",
+        "nightText" : "Dondurucu Sisli",
+        "animation" : "mist"
+    },
+    {
+        "code" : 1150,
+        "dayText" : "Çiseleme",
+        "nightText" : "Çiseleme",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1153,
+        "dayText" : "Çiseleme",
+        "nightText" : "Çiseleme",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1168,
+        "dayText" : "Çiseleme",
+        "nightText" : "Çiseleme",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1171,
+        "dayText" : "Çiseleme",
+        "nightText" : "Çiseleme",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1180,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1183,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1186,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1189,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1192,
+        "dayText" : "Şiddetli Yağmur",
+        "nightText" : "Şiddetli Yağmur",
+        "animation" : "rainShower"
+    },
+    {
+        "code" : 1195,
+        "dayText" : "Şiddetli Yağmur",
+        "nightText" : "Şiddetli Yağmur",
+        "animation" : "rainShower"
+    },
+    {
+        "code" : 1198,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1201,
+        "dayText" : "Yağmurlu",
+        "nightText" : "Yağmurlu",
+        "animation" : "rain"
+    },
+    {
+        "code" : 1024,
+        "dayText" : "Karla Karışık Yağmur",
+        "nightText" : "Karla Karışık Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1207,
+        "dayText" : "Karla Karışık Yağmur",
+        "nightText" : "Karla Karışık Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1210,
+        "dayText" : "Kar Yağışı",
+        "nightText" : "Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1213,
+        "dayText" : "Kar Yağışı",
+        "nightText" : "Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1216,
+        "dayText" : "Kar Yağışı",
+        "nightText" : "Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1219,
+        "dayText" : "Kar Yağışı",
+        "nightText" : "Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1222,
+        "dayText" : "Yoğun Kar Yağışı",
+        "nightText" : "Yoğun Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1225,
+        "dayText" : "Yoğun Kar Yağışı",
+        "nightText" : "Yoğun Kar Yağışı",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1237,
+        "dayText" : "Buzlu",
+        "nightText" : "Buzlu",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1240,
+        "dayText" : "Sağanak Yağış",
+        "nightText" : "Sağanak Yağış",
+        "animation" : "rainShower"
+    },
+    {
+        "code" : 1243,
+        "dayText" : "Sağanak Yağış",
+        "nightText" : "Sağanak Yağış",
+        "animation" : "rainShower"
+    },
+    {
+        "code" : 1246,
+        "dayText" : "Şiddetli Sağanak Yağış",
+        "nightText" : "Şiddetli Sağanak Yağış",
+        "animation" : "rainShower"
+    },
+    {
+        "code" : 1249,
+        "dayText" : "Karla Karışık Yağmur",
+        "nightText" : "Karla Karışık Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1252,
+        "dayText" : "Karla Karışık Yağmur",
+        "nightText" : "Karla Karışık Yağmur",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1255,
+        "dayText" : "Sağanak Kar",
+        "nightText" : "Sağnak Kar",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1258,
+        "dayText" : "Sağanak Kar",
+        "nightText" : "Sağanak Kar",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1261,
+        "dayText" : "Buzlu Kar",
+        "nightText" : "Buzlu Kar",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1264,
+        "dayText" : "Buzlu Kar",
+        "nightText" : "Buzlu Kar",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1273,
+        "dayText" : "Gök Gürültülü Yağmmur",
+        "nightText" : "Gök Gürültülü Yağmur",
+        "animation" : "thunderstorm"
+    },
+    {
+        "code" : 1276,
+        "dayText" : "Gök Gürültülü Yağmmur",
+        "nightText" : "Gök Gürültülü Yağmur",
+        "animation" : "thunderstorm"
+    },
+    {
+        "code" : 1279,
+        "dayText" : "Gök Gürültülü Kar",
+        "nightText" : "Gök Gürültülü Kar",
+        "animation" : "snow"
+    },
+    {
+        "code" : 1282,
+        "dayText" : "Yoğun Kar Yağışı",
+        "nightText" : "Yoğun Kar Yağışı",
+        "animation" : "snow"
+    }
+]
